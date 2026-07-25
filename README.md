@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hai Their
 # 💫 About Me:
 # 👋 Hi, I'm Pavan Paluri<br><br>🎯 Aspiring Software Tester with a passion for delivering high-quality software through effective testing and continuous learning.<br><br>## 💼 About Me<br>- 🔍 Interested in Manual Testing, Automation Testing, and Software Quality Assurance (QA).<br>- 🌱 Currently learning Playwright, Java, TestNG, API Testing, and SQL.<br>- 🧪 Familiar with writing test cases, reporting bugs, and understanding the Software Development Life Cycle (SDLC) and Software Testing Life Cycle (STLC).<br>- 💡 Eager to contribute to real-world testing projects and continuously improve my skills.<br>- 🤝 Open to collaborating on QA and automation testing projects.<br><br>## 🛠️ Skills<br>- Manual Testing<br>- Playwright<br>- Java<br>- TestNG<br>- SQL<br>- API Testing (Postman)<br>- Git & GitHub<br>- Jira<br>- SDLC & STLC<br>- Defect Lifecycle<br><br>## 📚 Currently Learning<br>- Playwright Automation Frameworks<br>- Maven<br>- Jenkins<br>- CI/CD Basics<br><br>## 📫 Connect With Me<br>- LinkedIn: www.linkedin.com/in/pavan-paluri-656bb2286<br>- Email: paluripavan6@gmail.com<br><br>⭐ *"Quality is never an accident; it is always the result of intelligent effort."*
 
@@ -17,8 +17,3 @@
 [![](https://komarev.com/ghpvc/?username=paluripavan6&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!--
-**paluripavan6/paluripavan6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
